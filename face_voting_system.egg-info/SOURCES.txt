@@ -1,0 +1,12 @@
+README.md
+setup.py
+face_voting_system.egg-info/PKG-INFO
+face_voting_system.egg-info/SOURCES.txt
+face_voting_system.egg-info/dependency_links.txt
+face_voting_system.egg-info/requires.txt
+face_voting_system.egg-info/top_level.txt
+ovs/__init__.py
+ovs/db_connection.py
+ovs/login.py
+ovs/registration.py
+ovs/voting.py

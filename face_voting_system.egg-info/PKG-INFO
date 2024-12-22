@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: face_voting_system
+Version: 0.1.0
+Summary: A face recognition-based voting system
+Home-page: https://github.com/yourusername/face_voting_system
+Author: Ajursha Dahal
+Author-email: ajursha@gmail.com
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: mysql-connector-python
+Requires-Dist: opencv-python
+Requires-Dist: face-recognition
+Requires-Dist: numpy
+
+# Online Voting System (OVS)
+A Python-based online voting system using face recognition for secure login after registration.
+
+## Features
+- Secure voter registration using face recognition.
+- Face-based login to access the voting system.
+- Vote for your preferred party securely.
+
+## Installation
+Run the following command to install the package:
